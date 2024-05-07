@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Airline Reservation.iml" filepath="$PROJECT_DIR$/.idea/Airline Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-service/frontend-service.iml" filepath="$PROJECT_DIR$/frontend-service/frontend-service.iml" />
+    </modules>
+  </component>
+</project>
